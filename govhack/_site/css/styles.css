@@ -5,11 +5,14 @@ body{
 .index{
 	background-color:#5b9bd5;
 
+}
 
+.altroutes{
+	background-color:#5b9bd5;
 }
 
 .main {
-    color: #000000;
+    color: #00000;
 }
 
 .heading{
@@ -20,9 +23,37 @@ body{
 
 }
 
+.heading1{
+	font-size: 5em;
+    text-align: left;
+    margin-bottom: 0.8em;
+    padding-left: 1em;
+}
+
 .status{
 	font-size: 4.5em;
 	line-height: 2em;
 	padding-left: 1.3em;
 
 }
+
+.busimage{
+	float: left;
+    height: 75px;
+    width: 235px;
+}
+
+.status1{
+	font-size: 4.5em;
+	line-height: 2em;
+	padding-left: 1.3em;
+
+}
+
+.heading1{
+	padding-top: 1em;
+    font-size: 5em;
+    text-align: left;
+    margin-bottom: 0.8em;
+
+ }
