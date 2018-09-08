@@ -1,0 +1,28 @@
+body{
+	font-family: 'Lilita One', cursive;
+}
+
+.index{
+	background-color:#5b9bd5;
+
+
+}
+
+.main {
+    color: #000000;
+}
+
+.heading{
+    font-size: 5.5em;
+    text-align: left;
+    margin-bottom: 0.8em;
+    padding-left: 1em; 
+
+}
+
+.status{
+	font-size: 4.5em;
+	line-height: 2em;
+	padding-left: 1.3em;
+
+}
